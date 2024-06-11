@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069717768335",
+    "project_id": "klinik-app-a6c96",
+    "storage_bucket": "klinik-app-a6c96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069717768335:android:4f2098e693453504d8c8fa",
+        "android_client_info": {
+          "package_name": "com.safira.klinik_app.klinik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvgsRT9BTz_wjtMIC6D1T19xolqNWFBDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
